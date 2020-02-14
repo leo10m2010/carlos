@@ -90,7 +90,7 @@ mora_onscroll_logo_image:
 
 <ul class="portfolio dt-gap-2 isotope text-on-thumbnail style-load-more-btn mfp-gallery grid_bda">
   <li class=" grid-item dt-project-35 19 21 22  item-wide grid light-captions text-on-thumbnail">
-    <a class="img-anchor" href="http://localhost/1/portfolio/feng-shui-office/"><img src="http://localhost/1/wp-content/uploads/2017/06/the-zen-room-759x589.jpg" alt="" />
+    <a class="img-anchor" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/portfolio/feng-shui-office/"><img src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/the-zen-room-759x589.jpg" alt="" />
     
     <div class="grid-item-on-hover">
       <div class="grid-text-container">
@@ -108,7 +108,7 @@ mora_onscroll_logo_image:
   </li>
   
   <li class=" grid-item dt-project-33 20  item-small grid light-captions text-on-thumbnail">
-    <a class="img-anchor" href="http://localhost/1/portfolio/the-prestige/"><img src="http://localhost/1/wp-content/uploads/2017/06/the-prestige-379x294.jpg" alt="" />
+    <a class="img-anchor" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/portfolio/the-prestige/"><img src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/the-prestige-379x294.jpg" alt="" />
     
     <div class="grid-item-on-hover">
       <div class="grid-text-container">
@@ -126,7 +126,7 @@ mora_onscroll_logo_image:
   </li>
   
   <li class=" grid-item dt-project-31 18 20  item-high grid light-captions text-on-thumbnail">
-    <a class="img-anchor" href="http://localhost/1/portfolio/healthy-living/"><img src="http://localhost/1/wp-content/uploads/2017/06/healthy-living-389x629.jpg" alt="" />
+    <a class="img-anchor" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/portfolio/healthy-living/"><img src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/healthy-living-389x629.jpg" alt="" />
     
     <div class="grid-item-on-hover">
       <div class="grid-text-container">
@@ -144,7 +144,7 @@ mora_onscroll_logo_image:
   </li>
   
   <li class=" grid-item dt-project-29 19 20  item-small grid light-captions text-on-thumbnail">
-    <a class="img-anchor" href="http://localhost/1/portfolio/childhood-memories/"><img src="http://localhost/1/wp-content/uploads/2017/06/childhood-memories-379x294.jpg" alt="" />
+    <a class="img-anchor" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/portfolio/childhood-memories/"><img src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/childhood-memories-379x294.jpg" alt="" />
     
     <div class="grid-item-on-hover">
       <div class="grid-text-container">
@@ -162,7 +162,7 @@ mora_onscroll_logo_image:
   </li>
   
   <li class=" grid-item dt-project-27 18 21  item-high grid light-captions text-on-thumbnail">
-    <a class="img-anchor" href="http://localhost/1/portfolio/morning-habits/"><img src="http://localhost/1/wp-content/uploads/2017/06/morning-habits-389x629.jpg" alt="" />
+    <a class="img-anchor" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/portfolio/morning-habits/"><img src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/morning-habits-389x629.jpg" alt="" />
     
     <div class="grid-item-on-hover">
       <div class="grid-text-container">
@@ -180,7 +180,7 @@ mora_onscroll_logo_image:
   </li>
   
   <li class=" grid-item dt-project-25 21  item-small grid light-captions text-on-thumbnail">
-    <a class="img-anchor" href="http://localhost/1/portfolio/multitasking/"><img src="http://localhost/1/wp-content/uploads/2017/06/multitasking-379x294.jpg" alt="" />
+    <a class="img-anchor" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/portfolio/multitasking/"><img src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/multitasking-379x294.jpg" alt="" />
     
     <div class="grid-item-on-hover">
       <div class="grid-text-container">
@@ -198,7 +198,7 @@ mora_onscroll_logo_image:
   </li>
   
   <li class=" grid-item dt-project-23 20 21  item-long grid light-captions text-on-thumbnail">
-    <a class="img-anchor" href="http://localhost/1/portfolio/bibliotheca-universalis/"><img src="http://localhost/1/wp-content/uploads/2017/06/bibliotheca-universalis-759x294.jpg" alt="" />
+    <a class="img-anchor" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/portfolio/bibliotheca-universalis/"><img src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/bibliotheca-universalis-759x294.jpg" alt="" />
     
     <div class="grid-item-on-hover">
       <div class="grid-text-container">
@@ -216,7 +216,7 @@ mora_onscroll_logo_image:
   </li>
   
   <li class=" grid-item dt-project-21 18 19  item-small grid light-captions text-on-thumbnail">
-    <a class="img-anchor" href="http://localhost/1/portfolio/fitness-routine/"><img src="http://localhost/1/wp-content/uploads/2017/06/fitness-routine-379x294.jpg" alt="" />
+    <a class="img-anchor" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/portfolio/fitness-routine/"><img src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/fitness-routine-379x294.jpg" alt="" />
     
     <div class="grid-item-on-hover">
       <div class="grid-text-container">
@@ -234,7 +234,7 @@ mora_onscroll_logo_image:
   </li>
   
   <li class=" grid-item dt-project-10 20 22  item-small grid light-captions text-on-thumbnail">
-    <a class="img-anchor" href="http://localhost/1/portfolio/lazy-sunday/"><img src="http://localhost/1/wp-content/uploads/2017/06/lazy-sunday-379x294.jpg" alt="" />
+    <a class="img-anchor" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/portfolio/lazy-sunday/"><img src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/lazy-sunday-379x294.jpg" alt="" />
     
     <div class="grid-item-on-hover">
       <div class="grid-text-container">
@@ -252,7 +252,7 @@ mora_onscroll_logo_image:
   </li>
   
   <li class=" grid-item dt-project-49 21 22  item-small grid light-captions text-on-thumbnail">
-    <a class="img-anchor" href="http://localhost/1/portfolio/subtle-artwork/"><img src="http://localhost/1/wp-content/uploads/2017/06/subtle-artwork-379x294.jpg" alt="" />
+    <a class="img-anchor" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/portfolio/subtle-artwork/"><img src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/subtle-artwork-379x294.jpg" alt="" />
     
     <div class="grid-item-on-hover">
       <div class="grid-text-container">
@@ -271,5 +271,5 @@ mora_onscroll_logo_image:
 </ul></section>
 
 <div class="dt_pagination">
-  <span>Page 1 of 2</span><span class="current">1</span> <a href="http://localhost/1/wp-admin/export.php?type=jekyll&#038;paged=2" class="inactive">2</a><a class="next" href="http://localhost/1/wp-admin/export.php?type=jekyll&#038;paged=2">&raquo;</a>
+  <span>Page 1 of 2</span><span class="current">1</span> <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-admin/export.php?type=jekyll&#038;paged=2" class="inactive">2</a><a class="next" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-admin/export.php?type=jekyll&#038;paged=2">&raquo;</a>
 </div></section>\[/vc\_column\]\[/vc\_row\]

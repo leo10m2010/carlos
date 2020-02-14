@@ -112,41 +112,41 @@ mora_onscroll_logo_svg_retina:
   <div id="owl-clients-ffa" class="owl-carousel carousel-clients" data-token="6X3fK">
     <div class="clients-bulk">
       <div class="client-item">
-        <a target="_blank"  href="#"><img width="171" height="100" src="http://localhost/1/wp-content/uploads/2017/06/ostrich-cafe.png" class="attachment-full" alt="" /></a>
+        <a target="_blank"  href="#"><img width="171" height="100" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/ostrich-cafe.png" class="attachment-full" alt="" /></a>
       </div>
       
       <div class="client-item">
-        <a target="_blank"  href="#"><img width="249" height="100" src="http://localhost/1/wp-content/uploads/2017/06/ron-jones.png" class="attachment-full" alt="" /></a>
+        <a target="_blank"  href="#"><img width="249" height="100" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/ron-jones.png" class="attachment-full" alt="" /></a>
       </div>
     </div>
     
     <div class="clients-bulk">
       <div class="client-item">
-        <a target="_blank"  href="#"><img width="251" height="100" src="http://localhost/1/wp-content/uploads/2017/06/sweety-cafeteria-1.png" class="attachment-full" alt="" /></a>
+        <a target="_blank"  href="#"><img width="251" height="100" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/sweety-cafeteria-1.png" class="attachment-full" alt="" /></a>
       </div>
       
       <div class="client-item">
-        <a target="_blank"  href="#"><img width="222" height="100" src="http://localhost/1/wp-content/uploads/2017/06/avantgarde-1.png" class="attachment-full" alt="" /></a>
+        <a target="_blank"  href="#"><img width="222" height="100" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/avantgarde-1.png" class="attachment-full" alt="" /></a>
       </div>
     </div>
     
     <div class="clients-bulk">
       <div class="client-item">
-        <a target="_blank"  href="#"><img width="179" height="100" src="http://localhost/1/wp-content/uploads/2017/06/fastlane-1.png" class="attachment-full" alt="" /></a>
+        <a target="_blank"  href="#"><img width="179" height="100" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/fastlane-1.png" class="attachment-full" alt="" /></a>
       </div>
       
       <div class="client-item">
-        <a target="_blank"  href="#"><img width="224" height="100" src="http://localhost/1/wp-content/uploads/2017/06/golden.png" class="attachment-full" alt="" /></a>
+        <a target="_blank"  href="#"><img width="224" height="100" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/golden.png" class="attachment-full" alt="" /></a>
       </div>
     </div>
     
     <div class="clients-bulk">
       <div class="client-item">
-        <a target="_blank"  href="#"><img width="93" height="100" src="http://localhost/1/wp-content/uploads/2017/06/ideabox-1.png" class="attachment-full" alt="" /></a>
+        <a target="_blank"  href="#"><img width="93" height="100" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/ideabox-1.png" class="attachment-full" alt="" /></a>
       </div>
       
       <div class="client-item">
-        <a target="_blank"  href="#"><img width="105" height="100" src="http://localhost/1/wp-content/uploads/2017/06/norcold-1.png" class="attachment-full" alt="" /></a>
+        <a target="_blank"  href="#"><img width="105" height="100" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/norcold-1.png" class="attachment-full" alt="" /></a>
       </div>
     </div>
   </div>
@@ -180,7 +180,7 @@ mora_onscroll_logo_svg_retina:
   <div id="owl-testimonials-caa" class="owl-carousel testimonials-slider" data-token="Q7n3H">
     <div class="testimonial-item">
       <div class="client-thumbnail">
-        <img class="client-thumb " src="http://localhost/1/wp-content/uploads/2017/06/testimonial-2-90x90.jpg" width="90" height="90" alt="testimonial-2" title="testimonial-2" />
+        <img class="client-thumb " src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/testimonial-2-90x90.jpg" width="90" height="90" alt="testimonial-2" title="testimonial-2" />
       </div>
       
       <span class="testimonial-name">Alice LeGrand</span><em>,</em> <span class="testimonial-position">Nanotec</span>
@@ -197,7 +197,7 @@ mora_onscroll_logo_svg_retina:
     
     <div class="testimonial-item">
       <div class="client-thumbnail">
-        <img class="client-thumb " src="http://localhost/1/wp-content/uploads/2017/06/testimonial-3-90x90.jpg" width="90" height="90" alt="testimonial-3" title="testimonial-3" />
+        <img class="client-thumb " src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/testimonial-3-90x90.jpg" width="90" height="90" alt="testimonial-3" title="testimonial-3" />
       </div>
       
       <span class="testimonial-name">Jacob Johnson</span><em>,</em> <span class="testimonial-position">Meetup</span>
@@ -214,7 +214,7 @@ mora_onscroll_logo_svg_retina:
     
     <div class="testimonial-item">
       <div class="client-thumbnail">
-        <img class="client-thumb " src="http://localhost/1/wp-content/uploads/2017/06/testimonial-1-90x90.jpg" width="90" height="90" alt="testimonial-1" title="testimonial-1" />
+        <img class="client-thumb " src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/testimonial-1-90x90.jpg" width="90" height="90" alt="testimonial-1" title="testimonial-1" />
       </div>
       
       <span class="testimonial-name">Michael Doe</span><em>,</em> <span class="testimonial-position">Fab Media</span>

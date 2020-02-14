@@ -4,7 +4,7 @@ title: 'Homepage &#8211; Personal Photography'
 date: 2020-02-14T03:22:05+00:00
 author: admin
 layout: revision
-guid: http://localhost/1/2020/02/14/166-autosave-v1/
+guid: https://raw.githubusercontent.com/leo10m2010/carlos/master/2020/02/14/166-autosave-v1/
 permalink: /2020/02/14/166-autosave-v1/
 ---
 \[vc\_row css=&#8221;.vc\_custom\_1496336912202{padding-top: 80px !important;padding-bottom: 80px !important;}&#8221;\]\[vc\_column\]\[vc\_raw\_html]JTNDaDIlM0VIb2xhJTJDJTIwc295JTIwQ2FybG9zJTIwSmF1cmVndWkuJTNDYnIlMkYlM0UlMjBTb3klMjB1biUyMCUzQ2ElMjBocmVmJTNEJTIyJTIzJTIyJTNFcGhvdG9ncmFwaGVyJTNDJTJGYSUzRSUyMGZvdCVDMyVCM2dyYWZvJTIwcHJvZmVzaW9uYWwlMjB5JTIwYXBhc2lvbmFkby4lMjAlRTIlOTklQTUlM0MlMkZoMiUzRSUwQQ==[/vc\_raw\_html\]\[vc\_separator color=&#8221;custom&#8221; align=&#8221;align\_left&#8221; border\_width=&#8221;2&#8243; el\_width=&#8221;10&#8243; accent\_color=&#8221;#efefef&#8221;\]\[vc\_raw\_html]JTNDcCUyMGNsYXNzJTNEJTIybW9yYS1zdWJ0aXRsZSUyMiUzRUxvcmVtJTIwaXBzdW0lMjBkb2xvciUyMHNpdCUyMGFtZXQlMkMlMjBjb25zZWN0ZXR1ciUyMGFkaXBpc2NpbmclMjBlbGl0JTJDJTIwc2VkJTIwZG8lMjBlaXVzbW9kJTNDYnIlMkYlM0UlMjB0ZW1wb3IlMjBpbmNpZGlkdW50JTIwdXQlMjBsYWJvcmUlMjBldCUyMGRvbG9yZSUyMG1hZ25hJTIwYWxpcXVhLiUyMCUzQyUyRnAlM0UlMEE=[/vc\_raw\_html\]\[/vc\_column\]\[/vc\_row\]\[vc\_row full\_width=&#8221;stretch\_row\_content\_no\_spaces&#8221;\][vc\_column]
@@ -12,7 +12,7 @@ permalink: /2020/02/14/166-autosave-v1/
 <div id="dt-gallery-ead" class="delicious-gallery-wrapper" data-token="vO1xK">
   <ul class="delicious-gallery isotope dt-gallery is-grid dt-gap-4">
     <li class="delicious-gallery-item onebytwo remove-grayscale">
-      <a class="is-link" title="Weddings" href="https://dev.deliciousthemes.com/mora/homepage-personal-photography/weddings-2/"><img class="no-lazy" src="http://localhost/1/wp-content/uploads/2017/06/weddings-498x788.jpg" width="600" height="900" alt="Weddings" />
+      <a class="is-link" title="Weddings" href="https://dev.deliciousthemes.com/mora/homepage-personal-photography/weddings-2/"><img class="no-lazy" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/weddings-498x788.jpg" width="600" height="900" alt="Weddings" />
       
       <div class="delicious-gallery-on-hover">
         <span class="is-alt-text">Weddings</span>
@@ -20,7 +20,7 @@ permalink: /2020/02/14/166-autosave-v1/
     </li>
     
     <li class="delicious-gallery-item onebytwo remove-grayscale">
-      <a class="is-link" title="Travel" href="https://dev.deliciousthemes.com/mora/homepage-personal-photography/travel-2/"><img class="no-lazy" src="http://localhost/1/wp-content/uploads/2017/06/travel-498x788.jpg" width="600" height="900" alt="Travel" />
+      <a class="is-link" title="Travel" href="https://dev.deliciousthemes.com/mora/homepage-personal-photography/travel-2/"><img class="no-lazy" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/travel-498x788.jpg" width="600" height="900" alt="Travel" />
       
       <div class="delicious-gallery-on-hover">
         <span class="is-alt-text">Travel</span>
@@ -28,7 +28,7 @@ permalink: /2020/02/14/166-autosave-v1/
     </li>
     
     <li class="delicious-gallery-item onebytwo remove-grayscale">
-      <a class="not-link dt-lightbox-gallery" title="Interiors" href="http://localhost/1/wp-content/uploads/2017/06/interior.jpg"><img class="no-lazy" src="http://localhost/1/wp-content/uploads/2017/06/interior-498x788.jpg" width="600" height="900" alt="Interiors" />
+      <a class="not-link dt-lightbox-gallery" title="Interiors" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/interior.jpg"><img class="no-lazy" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/interior-498x788.jpg" width="600" height="900" alt="Interiors" />
       
       <div class="delicious-gallery-on-hover">
         <span class="is-alt-text">Interiors</span>
@@ -36,7 +36,7 @@ permalink: /2020/02/14/166-autosave-v1/
     </li>
     
     <li class="delicious-gallery-item onebytwo remove-grayscale">
-      <a class="is-link" title="Landscapes" href="https://dev.deliciousthemes.com/mora/homepage-personal-photography/landscapes/"><img class="no-lazy" src="http://localhost/1/wp-content/uploads/2017/06/landscape-498x788.jpg" width="600" height="900" alt="Landscapes" />
+      <a class="is-link" title="Landscapes" href="https://dev.deliciousthemes.com/mora/homepage-personal-photography/landscapes/"><img class="no-lazy" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/landscape-498x788.jpg" width="600" height="900" alt="Landscapes" />
       
       <div class="delicious-gallery-on-hover">
         <span class="is-alt-text">Landscapes</span>
@@ -44,7 +44,7 @@ permalink: /2020/02/14/166-autosave-v1/
     </li>
     
     <li class="delicious-gallery-item onebytwo remove-grayscale">
-      <a class="not-link dt-lightbox-gallery" title="Portraits" href="http://localhost/1/wp-content/uploads/2017/06/portrait.jpg"><img class="no-lazy" src="http://localhost/1/wp-content/uploads/2017/06/portrait-498x788.jpg" width="600" height="900" alt="Portraits" />
+      <a class="not-link dt-lightbox-gallery" title="Portraits" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/portrait.jpg"><img class="no-lazy" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/portrait-498x788.jpg" width="600" height="900" alt="Portraits" />
       
       <div class="delicious-gallery-on-hover">
         <span class="is-alt-text">Portraits</span>

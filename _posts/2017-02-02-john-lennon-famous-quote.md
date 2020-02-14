@@ -148,7 +148,7 @@ mora_blog_layout:
 
 <ul class="portfolio dt-gap-2 isotope text-on-thumbnail style-load-more-btn mfp-gallery grid_aac">
   <li class=" grid-item dt-project-35 19 21 22  item-wide grid light-captions text-on-thumbnail">
-    <a class="img-anchor" href="http://localhost/1/portfolio/feng-shui-office/"><img src="http://localhost/1/wp-content/uploads/2017/06/the-zen-room-759x589.jpg" alt="" />
+    <a class="img-anchor" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/portfolio/feng-shui-office/"><img src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/the-zen-room-759x589.jpg" alt="" />
     
     <div class="grid-item-on-hover">
       <div class="grid-text-container">
@@ -166,7 +166,7 @@ mora_blog_layout:
   </li>
   
   <li class=" grid-item dt-project-33 20  item-small grid light-captions text-on-thumbnail">
-    <a class="img-anchor" href="http://localhost/1/portfolio/the-prestige/"><img src="http://localhost/1/wp-content/uploads/2017/06/the-prestige-379x294.jpg" alt="" />
+    <a class="img-anchor" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/portfolio/the-prestige/"><img src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/the-prestige-379x294.jpg" alt="" />
     
     <div class="grid-item-on-hover">
       <div class="grid-text-container">
@@ -184,7 +184,7 @@ mora_blog_layout:
   </li>
   
   <li class=" grid-item dt-project-31 18 20  item-high grid light-captions text-on-thumbnail">
-    <a class="img-anchor" href="http://localhost/1/portfolio/healthy-living/"><img src="http://localhost/1/wp-content/uploads/2017/06/healthy-living-389x629.jpg" alt="" />
+    <a class="img-anchor" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/portfolio/healthy-living/"><img src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/healthy-living-389x629.jpg" alt="" />
     
     <div class="grid-item-on-hover">
       <div class="grid-text-container">
@@ -202,7 +202,7 @@ mora_blog_layout:
   </li>
   
   <li class=" grid-item dt-project-29 19 20  item-small grid light-captions text-on-thumbnail">
-    <a class="img-anchor" href="http://localhost/1/portfolio/childhood-memories/"><img src="http://localhost/1/wp-content/uploads/2017/06/childhood-memories-379x294.jpg" alt="" />
+    <a class="img-anchor" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/portfolio/childhood-memories/"><img src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/childhood-memories-379x294.jpg" alt="" />
     
     <div class="grid-item-on-hover">
       <div class="grid-text-container">
@@ -220,7 +220,7 @@ mora_blog_layout:
   </li>
   
   <li class=" grid-item dt-project-27 18 21  item-high grid light-captions text-on-thumbnail">
-    <a class="img-anchor" href="http://localhost/1/portfolio/morning-habits/"><img src="http://localhost/1/wp-content/uploads/2017/06/morning-habits-389x629.jpg" alt="" />
+    <a class="img-anchor" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/portfolio/morning-habits/"><img src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/morning-habits-389x629.jpg" alt="" />
     
     <div class="grid-item-on-hover">
       <div class="grid-text-container">
@@ -238,7 +238,7 @@ mora_blog_layout:
   </li>
   
   <li class=" grid-item dt-project-25 21  item-small grid light-captions text-on-thumbnail">
-    <a class="img-anchor" href="http://localhost/1/portfolio/multitasking/"><img src="http://localhost/1/wp-content/uploads/2017/06/multitasking-379x294.jpg" alt="" />
+    <a class="img-anchor" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/portfolio/multitasking/"><img src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/multitasking-379x294.jpg" alt="" />
     
     <div class="grid-item-on-hover">
       <div class="grid-text-container">
@@ -256,7 +256,7 @@ mora_blog_layout:
   </li>
   
   <li class=" grid-item dt-project-23 20 21  item-long grid light-captions text-on-thumbnail">
-    <a class="img-anchor" href="http://localhost/1/portfolio/bibliotheca-universalis/"><img src="http://localhost/1/wp-content/uploads/2017/06/bibliotheca-universalis-759x294.jpg" alt="" />
+    <a class="img-anchor" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/portfolio/bibliotheca-universalis/"><img src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/bibliotheca-universalis-759x294.jpg" alt="" />
     
     <div class="grid-item-on-hover">
       <div class="grid-text-container">
@@ -274,7 +274,7 @@ mora_blog_layout:
   </li>
   
   <li class=" grid-item dt-project-21 18 19  item-small grid light-captions text-on-thumbnail">
-    <a class="img-anchor" href="http://localhost/1/portfolio/fitness-routine/"><img src="http://localhost/1/wp-content/uploads/2017/06/fitness-routine-379x294.jpg" alt="" />
+    <a class="img-anchor" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/portfolio/fitness-routine/"><img src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/fitness-routine-379x294.jpg" alt="" />
     
     <div class="grid-item-on-hover">
       <div class="grid-text-container">
@@ -292,7 +292,7 @@ mora_blog_layout:
   </li>
   
   <li class=" grid-item dt-project-10 20 22  item-small grid light-captions text-on-thumbnail">
-    <a class="img-anchor" href="http://localhost/1/portfolio/lazy-sunday/"><img src="http://localhost/1/wp-content/uploads/2017/06/lazy-sunday-379x294.jpg" alt="" />
+    <a class="img-anchor" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/portfolio/lazy-sunday/"><img src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/lazy-sunday-379x294.jpg" alt="" />
     
     <div class="grid-item-on-hover">
       <div class="grid-text-container">
@@ -310,7 +310,7 @@ mora_blog_layout:
   </li>
   
   <li class=" grid-item dt-project-49 21 22  item-small grid light-captions text-on-thumbnail">
-    <a class="img-anchor" href="http://localhost/1/portfolio/subtle-artwork/"><img src="http://localhost/1/wp-content/uploads/2017/06/subtle-artwork-379x294.jpg" alt="" />
+    <a class="img-anchor" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/portfolio/subtle-artwork/"><img src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/subtle-artwork-379x294.jpg" alt="" />
     
     <div class="grid-item-on-hover">
       <div class="grid-text-container">
@@ -329,7 +329,7 @@ mora_blog_layout:
 </ul></section>
 
 <div class="dt_pagination">
-  <span>Page 1 of 2</span><span class="current">1</span> <a href="http://localhost/1/wp-admin/export.php?type=jekyll&#038;paged=2" class="inactive">2</a><a class="next" href="http://localhost/1/wp-admin/export.php?type=jekyll&#038;paged=2">&raquo;</a>
+  <span>Page 1 of 2</span><span class="current">1</span> <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-admin/export.php?type=jekyll&#038;paged=2" class="inactive">2</a><a class="next" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-admin/export.php?type=jekyll&#038;paged=2">&raquo;</a>
 </div></section>\[/vc\_column\]\[/vc\_row\]\[vc\_row full\_width=&#8221;stretch\_row&#8221; css=&#8221;.vc\_custom\_1497849735840{padding-top: 80px !important;padding-bottom: 80px !important;background-color: #f6f6f6 !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}&#8221;\]\[vc\_column width=&#8221;5/12&#8243;\]
 
 <div class="title-is-left">
@@ -370,7 +370,7 @@ _Mora Studio_\[/vc\_column\_text\]\[vc\_empty\_space height=&#8221;20px&#8221;\]
       <svg version="1.1" x="0px" y="0px" viewBox="0 0 100 125"><g transform="translate(0,-952.36218)"><path style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:1;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" d="M 49.875 6.96875 A 1.0001 1.0001 0 0 0 49 8 L 49 49 L 8 49 A 1.0001 1.0001 0 0 0 7.8125 49 A 1.0043849 1.0043849 0 0 0 8 51 L 49 51 L 49 92 A 1.0001 1.0001 0 1 0 51 92 L 51 51 L 92 51 A 1.0001 1.0001 0 1 0 92 49 L 51 49 L 51 8 A 1.0001 1.0001 0 0 0 49.875 6.96875 z " transform="translate(0,952.36218)"/></g></svg>
     </div>
     
-    <img class="" src="http://localhost/1/wp-content/uploads/2017/06/team-member-1.jpg" width="480" height="640" alt="team-member-1" title="team-member-1" /></a>
+    <img class="" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/team-member-1.jpg" width="480" height="640" alt="team-member-1" title="team-member-1" /></a>
   </div>
 </div>
 
@@ -385,7 +385,7 @@ _Mora Studio_\[/vc\_column\_text\]\[vc\_empty\_space height=&#8221;20px&#8221;\]
 <div id="team-popup-39" class="white-popup mfp-with-anim mfp-hide">
   <div class="row is-flex">
     <div class="five columns">
-      <div class="team-popup-image" style="background: url(http://localhost/1/wp-content/uploads/2017/06/team-member-1.jpg) center center; background-size: cover;">
+      <div class="team-popup-image" style="background: url(https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/team-member-1.jpg) center center; background-size: cover;">
       </div>
     </div>
     
@@ -439,7 +439,7 @@ _Mora Studio_\[/vc\_column\_text\]\[vc\_empty\_space height=&#8221;20px&#8221;\]
                     <svg version="1.1" x="0px" y="0px" viewBox="0 0 100 125"><g transform="translate(0,-952.36218)"><path style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:1;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" d="M 49.875 6.96875 A 1.0001 1.0001 0 0 0 49 8 L 49 49 L 8 49 A 1.0001 1.0001 0 0 0 7.8125 49 A 1.0043849 1.0043849 0 0 0 8 51 L 49 51 L 49 92 A 1.0001 1.0001 0 1 0 51 92 L 51 51 L 92 51 A 1.0001 1.0001 0 1 0 92 49 L 51 49 L 51 8 A 1.0001 1.0001 0 0 0 49.875 6.96875 z " transform="translate(0,952.36218)"/></g></svg>
                   </div>
                   
-                  <img class="" src="http://localhost/1/wp-content/uploads/2017/06/team-member-2.jpg" width="480" height="640" alt="team-member-2" title="team-member-2" /></a>
+                  <img class="" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/team-member-2.jpg" width="480" height="640" alt="team-member-2" title="team-member-2" /></a>
                 </div>
               </div>
               
@@ -454,7 +454,7 @@ _Mora Studio_\[/vc\_column\_text\]\[vc\_empty\_space height=&#8221;20px&#8221;\]
               <div id="team-popup-40" class="white-popup mfp-with-anim mfp-hide">
                 <div class="row is-flex">
                   <div class="five columns">
-                    <div class="team-popup-image" style="background: url(http://localhost/1/wp-content/uploads/2017/06/team-member-2.jpg) center center; background-size: cover;">
+                    <div class="team-popup-image" style="background: url(https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/team-member-2.jpg) center center; background-size: cover;">
                     </div>
                   </div>
                   
@@ -506,7 +506,7 @@ _Mora Studio_\[/vc\_column\_text\]\[vc\_empty\_space height=&#8221;20px&#8221;\]
                                   <svg version="1.1" x="0px" y="0px" viewBox="0 0 100 125"><g transform="translate(0,-952.36218)"><path style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:1;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" d="M 49.875 6.96875 A 1.0001 1.0001 0 0 0 49 8 L 49 49 L 8 49 A 1.0001 1.0001 0 0 0 7.8125 49 A 1.0043849 1.0043849 0 0 0 8 51 L 49 51 L 49 92 A 1.0001 1.0001 0 1 0 51 92 L 51 51 L 92 51 A 1.0001 1.0001 0 1 0 92 49 L 51 49 L 51 8 A 1.0001 1.0001 0 0 0 49.875 6.96875 z " transform="translate(0,952.36218)"/></g></svg>
                                 </div>
                                 
-                                <img class="" src="http://localhost/1/wp-content/uploads/2017/06/team-member-3.jpg" width="480" height="640" alt="team-member-3" title="team-member-3" /></a>
+                                <img class="" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/team-member-3.jpg" width="480" height="640" alt="team-member-3" title="team-member-3" /></a>
                               </div>
                             </div>
                             
@@ -521,7 +521,7 @@ _Mora Studio_\[/vc\_column\_text\]\[vc\_empty\_space height=&#8221;20px&#8221;\]
                             <div id="team-popup-37" class="white-popup mfp-with-anim mfp-hide">
                               <div class="row is-flex">
                                 <div class="five columns">
-                                  <div class="team-popup-image" style="background: url(http://localhost/1/wp-content/uploads/2017/06/team-member-3.jpg) center center; background-size: cover;">
+                                  <div class="team-popup-image" style="background: url(https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/team-member-3.jpg) center center; background-size: cover;">
                                   </div>
                                 </div>
                                 
@@ -573,7 +573,7 @@ _Mora Studio_\[/vc\_column\_text\]\[vc\_empty\_space height=&#8221;20px&#8221;\]
                                                 <svg version="1.1" x="0px" y="0px" viewBox="0 0 100 125"><g transform="translate(0,-952.36218)"><path style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:1;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" d="M 49.875 6.96875 A 1.0001 1.0001 0 0 0 49 8 L 49 49 L 8 49 A 1.0001 1.0001 0 0 0 7.8125 49 A 1.0043849 1.0043849 0 0 0 8 51 L 49 51 L 49 92 A 1.0001 1.0001 0 1 0 51 92 L 51 51 L 92 51 A 1.0001 1.0001 0 1 0 92 49 L 51 49 L 51 8 A 1.0001 1.0001 0 0 0 49.875 6.96875 z " transform="translate(0,952.36218)"/></g></svg>
                                               </div>
                                               
-                                              <img class="" src="http://localhost/1/wp-content/uploads/2017/06/team-member-4.jpg" width="480" height="640" alt="team-member-4" title="team-member-4" /></a>
+                                              <img class="" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/team-member-4.jpg" width="480" height="640" alt="team-member-4" title="team-member-4" /></a>
                                             </div>
                                           </div>
                                           
@@ -588,7 +588,7 @@ _Mora Studio_\[/vc\_column\_text\]\[vc\_empty\_space height=&#8221;20px&#8221;\]
                                           <div id="team-popup-38" class="white-popup mfp-with-anim mfp-hide">
                                             <div class="row is-flex">
                                               <div class="five columns">
-                                                <div class="team-popup-image" style="background: url(http://localhost/1/wp-content/uploads/2017/06/team-member-4.jpg) center center; background-size: cover;">
+                                                <div class="team-popup-image" style="background: url(https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/team-member-4.jpg) center center; background-size: cover;">
                                                 </div>
                                               </div>
                                               
@@ -676,7 +676,7 @@ _Mora Studio_\[/vc\_column\_text\]\[vc\_empty\_space height=&#8221;20px&#8221;\]
                                                           <div id="owl-testimonials-eaa" class="owl-carousel testimonials-slider" data-token="g7SgB">
                                                             <div class="testimonial-item">
                                                               <div class="client-thumbnail">
-                                                                <img class="client-thumb " src="http://localhost/1/wp-content/uploads/2017/06/testimonial-1-90x90.jpg" width="90" height="90" alt="testimonial-1" title="testimonial-1" />
+                                                                <img class="client-thumb " src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/testimonial-1-90x90.jpg" width="90" height="90" alt="testimonial-1" title="testimonial-1" />
                                                               </div>
                                                               
                                                               <span class="testimonial-name">Michael Doe</span><em>,</em> <span class="testimonial-position">Fab Media</span>
@@ -693,7 +693,7 @@ _Mora Studio_\[/vc\_column\_text\]\[vc\_empty\_space height=&#8221;20px&#8221;\]
                                                             
                                                             <div class="testimonial-item">
                                                               <div class="client-thumbnail">
-                                                                <img class="client-thumb " src="http://localhost/1/wp-content/uploads/2017/06/testimonial-2-90x90.jpg" width="90" height="90" alt="testimonial-2" title="testimonial-2" />
+                                                                <img class="client-thumb " src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/testimonial-2-90x90.jpg" width="90" height="90" alt="testimonial-2" title="testimonial-2" />
                                                               </div>
                                                               
                                                               <span class="testimonial-name">Alice LeGrand</span><em>,</em> <span class="testimonial-position">Nanotec</span>
@@ -710,7 +710,7 @@ _Mora Studio_\[/vc\_column\_text\]\[vc\_empty\_space height=&#8221;20px&#8221;\]
                                                             
                                                             <div class="testimonial-item">
                                                               <div class="client-thumbnail">
-                                                                <img class="client-thumb " src="http://localhost/1/wp-content/uploads/2017/06/testimonial-3-90x90.jpg" width="90" height="90" alt="testimonial-3" title="testimonial-3" />
+                                                                <img class="client-thumb " src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/testimonial-3-90x90.jpg" width="90" height="90" alt="testimonial-3" title="testimonial-3" />
                                                               </div>
                                                               
                                                               <span class="testimonial-name">Jacob Johnson</span><em>,</em> <span class="testimonial-position">Meetup</span>
@@ -731,37 +731,37 @@ _Mora Studio_\[/vc\_column\_text\]\[vc\_empty\_space height=&#8221;20px&#8221;\]
                                                           <div id="owl-clients-ddc" class="owl-carousel carousel-clients" data-token="Dpvpm">
                                                             <div class="clients-bulk">
                                                               <div class="client-item">
-                                                                <a target="_blank"  href="#"><img width="105" height="100" src="http://localhost/1/wp-content/uploads/2017/06/norcold.png" class="attachment-full" alt="" /></a>
+                                                                <a target="_blank"  href="#"><img width="105" height="100" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/norcold.png" class="attachment-full" alt="" /></a>
                                                               </div>
                                                             </div>
                                                             
                                                             <div class="clients-bulk">
                                                               <div class="client-item">
-                                                                <a target="_blank"  href="#"><img width="251" height="100" src="http://localhost/1/wp-content/uploads/2017/06/sweety-cafeteria.png" class="attachment-full" alt="" /></a>
+                                                                <a target="_blank"  href="#"><img width="251" height="100" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/sweety-cafeteria.png" class="attachment-full" alt="" /></a>
                                                               </div>
                                                             </div>
                                                             
                                                             <div class="clients-bulk">
                                                               <div class="client-item">
-                                                                <a target="_blank"  href="#"><img width="133" height="100" src="http://localhost/1/wp-content/uploads/2017/06/bullseye.png" class="attachment-full" alt="" /></a>
+                                                                <a target="_blank"  href="#"><img width="133" height="100" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/bullseye.png" class="attachment-full" alt="" /></a>
                                                               </div>
                                                             </div>
                                                             
                                                             <div class="clients-bulk">
                                                               <div class="client-item">
-                                                                <a target="_blank"  href="#"><img width="222" height="100" src="http://localhost/1/wp-content/uploads/2017/06/avantgarde.png" class="attachment-full" alt="" /></a>
+                                                                <a target="_blank"  href="#"><img width="222" height="100" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/avantgarde.png" class="attachment-full" alt="" /></a>
                                                               </div>
                                                             </div>
                                                             
                                                             <div class="clients-bulk">
                                                               <div class="client-item">
-                                                                <a target="_blank"  href="#"><img width="93" height="100" src="http://localhost/1/wp-content/uploads/2017/06/ideabox.png" class="attachment-full" alt="" /></a>
+                                                                <a target="_blank"  href="#"><img width="93" height="100" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/ideabox.png" class="attachment-full" alt="" /></a>
                                                               </div>
                                                             </div>
                                                             
                                                             <div class="clients-bulk">
                                                               <div class="client-item">
-                                                                <a target="_blank"  href="#"><img width="179" height="100" src="http://localhost/1/wp-content/uploads/2017/06/fastlane.png" class="attachment-full" alt="" /></a>
+                                                                <a target="_blank"  href="#"><img width="179" height="100" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/fastlane.png" class="attachment-full" alt="" /></a>
                                                               </div>
                                                             </div>
                                                           </div>
@@ -779,13 +779,13 @@ _Mora Studio_\[/vc\_column\_text\]\[vc\_empty\_space height=&#8221;20px&#8221;\]
                                                           <section id="owl-blog-carousel-bdc" class="dt-blog-carousel owl-carousel on-three-columns " data-token="fj3ac"> <article id="post-85" class="grid-item post-85 type-post status-publish format-standard has-post-thumbnail hentry category-fun category-love"> 
                                                           
                                                           <div class="post-thumbnail">
-                                                            <a href="http://localhost/1/2017/06/07/the-beauty-of-life/"> 
+                                                            <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/06/07/the-beauty-of-life/"> 
                                                             
                                                             <div class="blog-grid-hover">
                                                               <span class="read-me-more">Read More</span>
                                                             </div>
                                                             
-                                                            <img width="640" height="427" src="http://localhost/1/wp-content/uploads/2017/06/spring-is-coming.jpg" class="attachment-mora-blog-carousel-thumbnail size-mora-blog-carousel-thumbnail wp-post-image" alt="" /> </a>
+                                                            <img width="640" height="427" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/spring-is-coming.jpg" class="attachment-mora-blog-carousel-thumbnail size-mora-blog-carousel-thumbnail wp-post-image" alt="" /> </a>
                                                           </div>
                                                           
                                                           <!--end post-thumbnail--><section class="blog-carousel-content-bg"> <header class="entry-header"> 
@@ -797,25 +797,25 @@ _Mora Studio_\[/vc\_column\_text\]\[vc\_empty\_space height=&#8221;20px&#8221;\]
                                                           <!-- .entry-meta -->
                                                           
                                                           <h3 class="entry-title">
-                                                            <a href="http://localhost/1/2017/06/07/the-beauty-of-life/" rel="bookmark"><span>The Beauty of Life</span></a>
+                                                            <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/06/07/the-beauty-of-life/" rel="bookmark"><span>The Beauty of Life</span></a>
                                                           </h3>
                                                           
                                                           <p>
-                                                            Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat&#8230; <a class="excerpt-read-more" href="http://localhost/1/2017/06/07/the-beauty-of-life/"><span>Read More</span></a>
+                                                            Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat&#8230; <a class="excerpt-read-more" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/06/07/the-beauty-of-life/"><span>Read More</span></a>
                                                           </p></header>
                                                           
                                                           <!-- .entry-header -->
                                                           
-                                                          <span class="cat-links"><a href="http://localhost/1/category/fun/" rel="category tag">Fun</a> <a href="http://localhost/1/category/love/" rel="category tag">Love</a></span> <footer class="entry-footer"> </footer><!-- .entry-footer --></section> </article> <article id="post-73" class="grid-item post-73 type-post status-publish format-standard has-post-thumbnail hentry category-personal tag-diy tag-handcrafting tag-paper"> 
+                                                          <span class="cat-links"><a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/category/fun/" rel="category tag">Fun</a> <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/category/love/" rel="category tag">Love</a></span> <footer class="entry-footer"> </footer><!-- .entry-footer --></section> </article> <article id="post-73" class="grid-item post-73 type-post status-publish format-standard has-post-thumbnail hentry category-personal tag-diy tag-handcrafting tag-paper"> 
                                                           
                                                           <div class="post-thumbnail">
-                                                            <a href="http://localhost/1/2017/05/18/spare-time-activities/"> 
+                                                            <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/05/18/spare-time-activities/"> 
                                                             
                                                             <div class="blog-grid-hover">
                                                               <span class="read-me-more">Read More</span>
                                                             </div>
                                                             
-                                                            <img width="417" height="480" src="http://localhost/1/wp-content/uploads/2017/06/spare-time-activities.jpg" class="attachment-mora-blog-carousel-thumbnail size-mora-blog-carousel-thumbnail wp-post-image" alt="" /> </a>
+                                                            <img width="417" height="480" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/spare-time-activities.jpg" class="attachment-mora-blog-carousel-thumbnail size-mora-blog-carousel-thumbnail wp-post-image" alt="" /> </a>
                                                           </div>
                                                           
                                                           <!--end post-thumbnail--><section class="blog-carousel-content-bg"> <header class="entry-header"> 
@@ -827,7 +827,7 @@ _Mora Studio_\[/vc\_column\_text\]\[vc\_empty\_space height=&#8221;20px&#8221;\]
                                                           <!-- .entry-meta -->
                                                           
                                                           <h3 class="entry-title">
-                                                            <a href="http://localhost/1/2017/05/18/spare-time-activities/" rel="bookmark"><span>Spare Time Activities</span></a>
+                                                            <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/05/18/spare-time-activities/" rel="bookmark"><span>Spare Time Activities</span></a>
                                                           </h3>
                                                           
                                                           <p>
@@ -836,16 +836,16 @@ _Mora Studio_\[/vc\_column\_text\]\[vc\_empty\_space height=&#8221;20px&#8221;\]
                                                           
                                                           <!-- .entry-header -->
                                                           
-                                                          <span class="cat-links"><a href="http://localhost/1/category/personal/" rel="category tag">Personal</a></span> <footer class="entry-footer"> </footer><!-- .entry-footer --></section> </article> <article id="post-83" class="grid-item post-83 type-post status-publish format-standard has-post-thumbnail hentry category-lifestyle"> 
+                                                          <span class="cat-links"><a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/category/personal/" rel="category tag">Personal</a></span> <footer class="entry-footer"> </footer><!-- .entry-footer --></section> </article> <article id="post-83" class="grid-item post-83 type-post status-publish format-standard has-post-thumbnail hentry category-lifestyle"> 
                                                           
                                                           <div class="post-thumbnail">
-                                                            <a href="http://localhost/1/2017/04/15/outdoor-essentials/"> 
+                                                            <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/04/15/outdoor-essentials/"> 
                                                             
                                                             <div class="blog-grid-hover">
                                                               <span class="read-me-more">Read More</span>
                                                             </div>
                                                             
-                                                            <img width="600" height="480" src="http://localhost/1/wp-content/uploads/2017/06/outdoor-essentials-1.jpg" class="attachment-mora-blog-carousel-thumbnail size-mora-blog-carousel-thumbnail wp-post-image" alt="" /> </a>
+                                                            <img width="600" height="480" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/outdoor-essentials-1.jpg" class="attachment-mora-blog-carousel-thumbnail size-mora-blog-carousel-thumbnail wp-post-image" alt="" /> </a>
                                                           </div>
                                                           
                                                           <!--end post-thumbnail--><section class="blog-carousel-content-bg"> <header class="entry-header"> 
@@ -857,7 +857,7 @@ _Mora Studio_\[/vc\_column\_text\]\[vc\_empty\_space height=&#8221;20px&#8221;\]
                                                           <!-- .entry-meta -->
                                                           
                                                           <h3 class="entry-title">
-                                                            <a href="http://localhost/1/2017/04/15/outdoor-essentials/" rel="bookmark"><span>Outdoor Essentials</span></a>
+                                                            <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/04/15/outdoor-essentials/" rel="bookmark"><span>Outdoor Essentials</span></a>
                                                           </h3>
                                                           
                                                           <p>
@@ -866,16 +866,16 @@ _Mora Studio_\[/vc\_column\_text\]\[vc\_empty\_space height=&#8221;20px&#8221;\]
                                                           
                                                           <!-- .entry-header -->
                                                           
-                                                          <span class="cat-links"><a href="http://localhost/1/category/lifestyle/" rel="category tag">Lifestyle</a></span> <footer class="entry-footer"> </footer><!-- .entry-footer --></section> </article> <article id="post-81" class="grid-item post-81 type-post status-publish format-standard has-post-thumbnail hentry category-fun category-urban"> 
+                                                          <span class="cat-links"><a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/category/lifestyle/" rel="category tag">Lifestyle</a></span> <footer class="entry-footer"> </footer><!-- .entry-footer --></section> </article> <article id="post-81" class="grid-item post-81 type-post status-publish format-standard has-post-thumbnail hentry category-fun category-urban"> 
                                                           
                                                           <div class="post-thumbnail">
-                                                            <a href="http://localhost/1/2017/04/07/urban-adventure/"> 
+                                                            <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/04/07/urban-adventure/"> 
                                                             
                                                             <div class="blog-grid-hover">
                                                               <span class="read-me-more">Read More</span>
                                                             </div>
                                                             
-                                                            <img width="616" height="480" src="http://localhost/1/wp-content/uploads/2017/06/urban-adventure-1.jpg" class="attachment-mora-blog-carousel-thumbnail size-mora-blog-carousel-thumbnail wp-post-image" alt="" /> </a>
+                                                            <img width="616" height="480" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/urban-adventure-1.jpg" class="attachment-mora-blog-carousel-thumbnail size-mora-blog-carousel-thumbnail wp-post-image" alt="" /> </a>
                                                           </div>
                                                           
                                                           <!--end post-thumbnail--><section class="blog-carousel-content-bg"> <header class="entry-header"> 
@@ -887,7 +887,7 @@ _Mora Studio_\[/vc\_column\_text\]\[vc\_empty\_space height=&#8221;20px&#8221;\]
                                                           <!-- .entry-meta -->
                                                           
                                                           <h3 class="entry-title">
-                                                            <a href="http://localhost/1/2017/04/07/urban-adventure/" rel="bookmark"><span>Urban Adventure</span></a>
+                                                            <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/04/07/urban-adventure/" rel="bookmark"><span>Urban Adventure</span></a>
                                                           </h3>
                                                           
                                                           <p>
@@ -896,16 +896,16 @@ _Mora Studio_\[/vc\_column\_text\]\[vc\_empty\_space height=&#8221;20px&#8221;\]
                                                           
                                                           <!-- .entry-header -->
                                                           
-                                                          <span class="cat-links"><a href="http://localhost/1/category/fun/" rel="category tag">Fun</a> <a href="http://localhost/1/category/urban/" rel="category tag">Urban</a></span> <footer class="entry-footer"> </footer><!-- .entry-footer --></section> </article> <article id="post-79" class="grid-item post-79 type-post status-publish format-standard has-post-thumbnail hentry category-personal"> 
+                                                          <span class="cat-links"><a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/category/fun/" rel="category tag">Fun</a> <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/category/urban/" rel="category tag">Urban</a></span> <footer class="entry-footer"> </footer><!-- .entry-footer --></section> </article> <article id="post-79" class="grid-item post-79 type-post status-publish format-standard has-post-thumbnail hentry category-personal"> 
                                                           
                                                           <div class="post-thumbnail">
-                                                            <a href="http://localhost/1/2017/04/01/say-yes-to-detox/"> 
+                                                            <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/04/01/say-yes-to-detox/"> 
                                                             
                                                             <div class="blog-grid-hover">
                                                               <span class="read-me-more">Read More</span>
                                                             </div>
                                                             
-                                                            <img width="521" height="480" src="http://localhost/1/wp-content/uploads/2017/04/say-yes-to-detox.jpg" class="attachment-mora-blog-carousel-thumbnail size-mora-blog-carousel-thumbnail wp-post-image" alt="" /> </a>
+                                                            <img width="521" height="480" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/04/say-yes-to-detox.jpg" class="attachment-mora-blog-carousel-thumbnail size-mora-blog-carousel-thumbnail wp-post-image" alt="" /> </a>
                                                           </div>
                                                           
                                                           <!--end post-thumbnail--><section class="blog-carousel-content-bg"> <header class="entry-header"> 
@@ -917,25 +917,25 @@ _Mora Studio_\[/vc\_column\_text\]\[vc\_empty\_space height=&#8221;20px&#8221;\]
                                                           <!-- .entry-meta -->
                                                           
                                                           <h3 class="entry-title">
-                                                            <a href="http://localhost/1/2017/04/01/say-yes-to-detox/" rel="bookmark"><span>Say Yes to Detox</span></a>
+                                                            <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/04/01/say-yes-to-detox/" rel="bookmark"><span>Say Yes to Detox</span></a>
                                                           </h3>
                                                           
                                                           <p>
-                                                            Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat&#8230; <a class="excerpt-read-more" href="http://localhost/1/2017/04/01/say-yes-to-detox/"><span>Read More</span></a>
+                                                            Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat&#8230; <a class="excerpt-read-more" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/04/01/say-yes-to-detox/"><span>Read More</span></a>
                                                           </p></header>
                                                           
                                                           <!-- .entry-header -->
                                                           
-                                                          <span class="cat-links"><a href="http://localhost/1/category/personal/" rel="category tag">Personal</a></span> <footer class="entry-footer"> </footer><!-- .entry-footer --></section> </article> <article id="post-75" class="grid-item post-75 type-post status-publish format-gallery has-post-thumbnail hentry category-fun category-people tag-downtown tag-team post_format-post-format-gallery"> 
+                                                          <span class="cat-links"><a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/category/personal/" rel="category tag">Personal</a></span> <footer class="entry-footer"> </footer><!-- .entry-footer --></section> </article> <article id="post-75" class="grid-item post-75 type-post status-publish format-gallery has-post-thumbnail hentry category-fun category-people tag-downtown tag-team post_format-post-format-gallery"> 
                                                           
                                                           <div class="post-thumbnail">
-                                                            <a href="http://localhost/1/2017/03/28/downtown-team-building/"> 
+                                                            <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/03/28/downtown-team-building/"> 
                                                             
                                                             <div class="blog-grid-hover">
                                                               <span class="read-me-more">Read More</span>
                                                             </div>
                                                             
-                                                            <img width="640" height="408" src="http://localhost/1/wp-content/uploads/2017/06/team-building.jpg" class="attachment-mora-blog-carousel-thumbnail size-mora-blog-carousel-thumbnail wp-post-image" alt="" /> </a>
+                                                            <img width="640" height="408" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/team-building.jpg" class="attachment-mora-blog-carousel-thumbnail size-mora-blog-carousel-thumbnail wp-post-image" alt="" /> </a>
                                                           </div>
                                                           
                                                           <!--end post-thumbnail--><section class="blog-carousel-content-bg"> <header class="entry-header"> 
@@ -947,7 +947,7 @@ _Mora Studio_\[/vc\_column\_text\]\[vc\_empty\_space height=&#8221;20px&#8221;\]
                                                           <!-- .entry-meta -->
                                                           
                                                           <h3 class="entry-title">
-                                                            <a href="http://localhost/1/2017/03/28/downtown-team-building/" rel="bookmark"><span>Downtown Team Building</span></a>
+                                                            <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/03/28/downtown-team-building/" rel="bookmark"><span>Downtown Team Building</span></a>
                                                           </h3>
                                                           
                                                           <p>
@@ -956,16 +956,16 @@ _Mora Studio_\[/vc\_column\_text\]\[vc\_empty\_space height=&#8221;20px&#8221;\]
                                                           
                                                           <!-- .entry-header -->
                                                           
-                                                          <span class="cat-links"><a href="http://localhost/1/category/fun/" rel="category tag">Fun</a> <a href="http://localhost/1/category/people/" rel="category tag">People</a></span> <footer class="entry-footer"> </footer><!-- .entry-footer --></section> </article> <article id="post-57" class="grid-item post-57 type-post status-publish format-standard has-post-thumbnail hentry category-love category-personal"> 
+                                                          <span class="cat-links"><a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/category/fun/" rel="category tag">Fun</a> <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/category/people/" rel="category tag">People</a></span> <footer class="entry-footer"> </footer><!-- .entry-footer --></section> </article> <article id="post-57" class="grid-item post-57 type-post status-publish format-standard has-post-thumbnail hentry category-love category-personal"> 
                                                           
                                                           <div class="post-thumbnail">
-                                                            <a href="http://localhost/1/2017/03/12/the-big-day/"> 
+                                                            <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/03/12/the-big-day/"> 
                                                             
                                                             <div class="blog-grid-hover">
                                                               <span class="read-me-more">Read More</span>
                                                             </div>
                                                             
-                                                            <img width="640" height="426" src="http://localhost/1/wp-content/uploads/2017/06/the-big-day.jpg" class="attachment-mora-blog-carousel-thumbnail size-mora-blog-carousel-thumbnail wp-post-image" alt="" /> </a>
+                                                            <img width="640" height="426" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/the-big-day.jpg" class="attachment-mora-blog-carousel-thumbnail size-mora-blog-carousel-thumbnail wp-post-image" alt="" /> </a>
                                                           </div>
                                                           
                                                           <!--end post-thumbnail--><section class="blog-carousel-content-bg"> <header class="entry-header"> 
@@ -977,7 +977,7 @@ _Mora Studio_\[/vc\_column\_text\]\[vc\_empty\_space height=&#8221;20px&#8221;\]
                                                           <!-- .entry-meta -->
                                                           
                                                           <h3 class="entry-title">
-                                                            <a href="http://localhost/1/2017/03/12/the-big-day/" rel="bookmark"><span>The Big Day</span></a>
+                                                            <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/03/12/the-big-day/" rel="bookmark"><span>The Big Day</span></a>
                                                           </h3>
                                                           
                                                           <p>
@@ -986,16 +986,16 @@ _Mora Studio_\[/vc\_column\_text\]\[vc\_empty\_space height=&#8221;20px&#8221;\]
                                                           
                                                           <!-- .entry-header -->
                                                           
-                                                          <span class="cat-links"><a href="http://localhost/1/category/love/" rel="category tag">Love</a> <a href="http://localhost/1/category/personal/" rel="category tag">Personal</a></span> <footer class="entry-footer"> </footer><!-- .entry-footer --></section> </article> <article id="post-55" class="grid-item post-55 type-post status-publish format-standard has-post-thumbnail hentry category-fun"> 
+                                                          <span class="cat-links"><a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/category/love/" rel="category tag">Love</a> <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/category/personal/" rel="category tag">Personal</a></span> <footer class="entry-footer"> </footer><!-- .entry-footer --></section> </article> <article id="post-55" class="grid-item post-55 type-post status-publish format-standard has-post-thumbnail hentry category-fun"> 
                                                           
                                                           <div class="post-thumbnail">
-                                                            <a href="http://localhost/1/2017/02/24/into-the-wild/"> 
+                                                            <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/02/24/into-the-wild/"> 
                                                             
                                                             <div class="blog-grid-hover">
                                                               <span class="read-me-more">Read More</span>
                                                             </div>
                                                             
-                                                            <img width="635" height="480" src="http://localhost/1/wp-content/uploads/2017/02/into-the-wild.jpg" class="attachment-mora-blog-carousel-thumbnail size-mora-blog-carousel-thumbnail wp-post-image" alt="" /> </a>
+                                                            <img width="635" height="480" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/02/into-the-wild.jpg" class="attachment-mora-blog-carousel-thumbnail size-mora-blog-carousel-thumbnail wp-post-image" alt="" /> </a>
                                                           </div>
                                                           
                                                           <!--end post-thumbnail--><section class="blog-carousel-content-bg"> <header class="entry-header"> 
@@ -1007,16 +1007,16 @@ _Mora Studio_\[/vc\_column\_text\]\[vc\_empty\_space height=&#8221;20px&#8221;\]
                                                           <!-- .entry-meta -->
                                                           
                                                           <h3 class="entry-title">
-                                                            <a href="http://localhost/1/2017/02/24/into-the-wild/" rel="bookmark"><span>Into the Wild</span></a>
+                                                            <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/02/24/into-the-wild/" rel="bookmark"><span>Into the Wild</span></a>
                                                           </h3>
                                                           
                                                           <p>
-                                                            Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat&#8230; <a class="excerpt-read-more" href="http://localhost/1/2017/02/24/into-the-wild/"><span>Read More</span></a>
+                                                            Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat&#8230; <a class="excerpt-read-more" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/02/24/into-the-wild/"><span>Read More</span></a>
                                                           </p></header>
                                                           
                                                           <!-- .entry-header -->
                                                           
-                                                          <span class="cat-links"><a href="http://localhost/1/category/fun/" rel="category tag">Fun</a></span> <footer class="entry-footer"> </footer><!-- .entry-footer --></section> </article> <article id="post-93" class="grid-item post-93 type-post status-publish format-quote hentry category-fun post_format-post-format-quote"> 
+                                                          <span class="cat-links"><a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/category/fun/" rel="category tag">Fun</a></span> <footer class="entry-footer"> </footer><!-- .entry-footer --></section> </article> <article id="post-93" class="grid-item post-93 type-post status-publish format-quote hentry category-fun post_format-post-format-quote"> 
                                                           
                                                           <div class="quote-box">
                                                             <p>

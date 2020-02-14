@@ -102,7 +102,7 @@ mora_onscroll_logo_svg_retina:
   <div id="owl-testimonials-dad" class="owl-carousel testimonials-slider" data-token="r4M7A">
     <div class="testimonial-item">
       <div class="client-thumbnail">
-        <img class="client-thumb " src="http://localhost/1/wp-content/uploads/2017/06/testimonial-leaf-90x90.png" width="90" height="90" alt="testimonial-leaf" title="testimonial-leaf" />
+        <img class="client-thumb " src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/testimonial-leaf-90x90.png" width="90" height="90" alt="testimonial-leaf" title="testimonial-leaf" />
       </div>
       
       <span class="testimonial-name">Chris & Allison</span><em>,</em> <span class="testimonial-position">NY</span>
@@ -119,7 +119,7 @@ mora_onscroll_logo_svg_retina:
     
     <div class="testimonial-item">
       <div class="client-thumbnail">
-        <img class="client-thumb " src="http://localhost/1/wp-content/uploads/2017/06/testimonial-2-90x90.png" width="90" height="90" alt="testimonial-2" title="testimonial-2" />
+        <img class="client-thumb " src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/testimonial-2-90x90.png" width="90" height="90" alt="testimonial-2" title="testimonial-2" />
       </div>
       
       <span class="testimonial-name">Jacob & Anna</span><em>,</em> <span class="testimonial-position">LA</span>
@@ -136,7 +136,7 @@ mora_onscroll_logo_svg_retina:
     
     <div class="testimonial-item">
       <div class="client-thumbnail">
-        <img class="client-thumb " src="http://localhost/1/wp-content/uploads/2017/06/testimonial-bell-90x90.png" width="90" height="90" alt="testimonial-bell" title="testimonial-bell" />
+        <img class="client-thumb " src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/testimonial-bell-90x90.png" width="90" height="90" alt="testimonial-bell" title="testimonial-bell" />
       </div>
       
       <span class="testimonial-name">Helen & David</span><em>,</em> <span class="testimonial-position">Miami</span>

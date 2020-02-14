@@ -200,37 +200,37 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   <div id="owl-clients-bea" class="owl-carousel carousel-clients" data-token="XuIiw">
     <div class="clients-bulk">
       <div class="client-item">
-        <a target="_blank"  href="#"><img width="171" height="100" src="http://localhost/1/wp-content/uploads/2017/06/ostrich-cafe.png" class="attachment-full" alt="" /></a>
+        <a target="_blank"  href="#"><img width="171" height="100" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/ostrich-cafe.png" class="attachment-full" alt="" /></a>
       </div>
     </div>
     
     <div class="clients-bulk">
       <div class="client-item">
-        <a target="_blank"  href="#"><img width="105" height="100" src="http://localhost/1/wp-content/uploads/2017/06/norcold-1.png" class="attachment-full" alt="" /></a>
+        <a target="_blank"  href="#"><img width="105" height="100" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/norcold-1.png" class="attachment-full" alt="" /></a>
       </div>
     </div>
     
     <div class="clients-bulk">
       <div class="client-item">
-        <a target="_blank"  href="#"><img width="224" height="100" src="http://localhost/1/wp-content/uploads/2017/06/golden.png" class="attachment-full" alt="" /></a>
+        <a target="_blank"  href="#"><img width="224" height="100" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/golden.png" class="attachment-full" alt="" /></a>
       </div>
     </div>
     
     <div class="clients-bulk">
       <div class="client-item">
-        <a target="_blank"  href="#"><img width="179" height="100" src="http://localhost/1/wp-content/uploads/2017/06/fastlane-1.png" class="attachment-full" alt="" /></a>
+        <a target="_blank"  href="#"><img width="179" height="100" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/fastlane-1.png" class="attachment-full" alt="" /></a>
       </div>
     </div>
     
     <div class="clients-bulk">
       <div class="client-item">
-        <a target="_blank"  href="#"><img width="251" height="100" src="http://localhost/1/wp-content/uploads/2017/06/sweety-cafeteria-1.png" class="attachment-full" alt="" /></a>
+        <a target="_blank"  href="#"><img width="251" height="100" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/sweety-cafeteria-1.png" class="attachment-full" alt="" /></a>
       </div>
     </div>
     
     <div class="clients-bulk">
       <div class="client-item">
-        <a target="_blank"  href="#"><img width="133" height="100" src="http://localhost/1/wp-content/uploads/2017/06/bullseye-1.png" class="attachment-full" alt="" /></a>
+        <a target="_blank"  href="#"><img width="133" height="100" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/bullseye-1.png" class="attachment-full" alt="" /></a>
       </div>
     </div>
   </div>

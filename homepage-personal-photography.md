@@ -65,7 +65,7 @@ mora_onscroll_logo_image:
 <div id="dt-gallery-eff" class="delicious-gallery-wrapper" data-token="ST8vB">
   <ul class="delicious-gallery isotope dt-gallery is-grid dt-gap-4">
     <li class="delicious-gallery-item onebytwo remove-grayscale">
-      <a class="is-link" title="Weddings" href="https://dev.deliciousthemes.com/mora/homepage-personal-photography/weddings-2/"><img class="no-lazy" src="http://localhost/1/wp-content/uploads/2017/06/weddings-498x788.jpg" width="600" height="900" alt="Weddings" />
+      <a class="is-link" title="Weddings" href="https://dev.deliciousthemes.com/mora/homepage-personal-photography/weddings-2/"><img class="no-lazy" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/weddings-498x788.jpg" width="600" height="900" alt="Weddings" />
       
       <div class="delicious-gallery-on-hover">
         <span class="is-alt-text">Weddings</span>
@@ -73,7 +73,7 @@ mora_onscroll_logo_image:
     </li>
     
     <li class="delicious-gallery-item onebytwo remove-grayscale">
-      <a class="is-link" title="Travel" href="https://dev.deliciousthemes.com/mora/homepage-personal-photography/travel-2/"><img class="no-lazy" src="http://localhost/1/wp-content/uploads/2017/06/travel-498x788.jpg" width="600" height="900" alt="Travel" />
+      <a class="is-link" title="Travel" href="https://dev.deliciousthemes.com/mora/homepage-personal-photography/travel-2/"><img class="no-lazy" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/travel-498x788.jpg" width="600" height="900" alt="Travel" />
       
       <div class="delicious-gallery-on-hover">
         <span class="is-alt-text">Travel</span>
@@ -81,7 +81,7 @@ mora_onscroll_logo_image:
     </li>
     
     <li class="delicious-gallery-item onebytwo remove-grayscale">
-      <a class="not-link dt-lightbox-gallery" title="Interiors" href="http://localhost/1/wp-content/uploads/2017/06/interior.jpg"><img class="no-lazy" src="http://localhost/1/wp-content/uploads/2017/06/interior-498x788.jpg" width="600" height="900" alt="Interiors" />
+      <a class="not-link dt-lightbox-gallery" title="Interiors" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/interior.jpg"><img class="no-lazy" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/interior-498x788.jpg" width="600" height="900" alt="Interiors" />
       
       <div class="delicious-gallery-on-hover">
         <span class="is-alt-text">Interiors</span>
@@ -89,7 +89,7 @@ mora_onscroll_logo_image:
     </li>
     
     <li class="delicious-gallery-item onebytwo remove-grayscale">
-      <a class="is-link" title="Landscapes" href="https://dev.deliciousthemes.com/mora/homepage-personal-photography/landscapes/"><img class="no-lazy" src="http://localhost/1/wp-content/uploads/2017/06/landscape-498x788.jpg" width="600" height="900" alt="Landscapes" />
+      <a class="is-link" title="Landscapes" href="https://dev.deliciousthemes.com/mora/homepage-personal-photography/landscapes/"><img class="no-lazy" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/landscape-498x788.jpg" width="600" height="900" alt="Landscapes" />
       
       <div class="delicious-gallery-on-hover">
         <span class="is-alt-text">Landscapes</span>
@@ -97,7 +97,7 @@ mora_onscroll_logo_image:
     </li>
     
     <li class="delicious-gallery-item onebytwo remove-grayscale">
-      <a class="not-link dt-lightbox-gallery" title="Portraits" href="http://localhost/1/wp-content/uploads/2017/06/portrait.jpg"><img class="no-lazy" src="http://localhost/1/wp-content/uploads/2017/06/portrait-498x788.jpg" width="600" height="900" alt="Portraits" />
+      <a class="not-link dt-lightbox-gallery" title="Portraits" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/portrait.jpg"><img class="no-lazy" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/portrait-498x788.jpg" width="600" height="900" alt="Portraits" />
       
       <div class="delicious-gallery-on-hover">
         <span class="is-alt-text">Portraits</span>

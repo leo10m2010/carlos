@@ -191,7 +191,7 @@ mora_onscroll_svg_retina_logo_height:
           <div id="owl-testimonials-feb" class="owl-carousel testimonials-slider" data-token="dcluS">
             <div class="testimonial-item">
               <div class="client-thumbnail">
-                <img class="client-thumb " src="http://localhost/1/wp-content/uploads/2017/06/testimonial-2-90x90.jpg" width="90" height="90" alt="testimonial-2" title="testimonial-2" />
+                <img class="client-thumb " src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/testimonial-2-90x90.jpg" width="90" height="90" alt="testimonial-2" title="testimonial-2" />
               </div>
               
               <span class="testimonial-name">Alice LeGrand</span><em>,</em> <span class="testimonial-position">Nanotec</span>
@@ -208,7 +208,7 @@ mora_onscroll_svg_retina_logo_height:
             
             <div class="testimonial-item">
               <div class="client-thumbnail">
-                <img class="client-thumb " src="http://localhost/1/wp-content/uploads/2017/06/testimonial-3-90x90.jpg" width="90" height="90" alt="testimonial-3" title="testimonial-3" />
+                <img class="client-thumb " src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/testimonial-3-90x90.jpg" width="90" height="90" alt="testimonial-3" title="testimonial-3" />
               </div>
               
               <span class="testimonial-name">Jacob Johnson</span><em>,</em> <span class="testimonial-position">Meetup</span>
@@ -225,7 +225,7 @@ mora_onscroll_svg_retina_logo_height:
             
             <div class="testimonial-item">
               <div class="client-thumbnail">
-                <img class="client-thumb " src="http://localhost/1/wp-content/uploads/2017/06/testimonial-1-90x90.jpg" width="90" height="90" alt="testimonial-1" title="testimonial-1" />
+                <img class="client-thumb " src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/testimonial-1-90x90.jpg" width="90" height="90" alt="testimonial-1" title="testimonial-1" />
               </div>
               
               <span class="testimonial-name">Michael Doe</span><em>,</em> <span class="testimonial-position">Fab Media</span>
@@ -248,23 +248,23 @@ mora_onscroll_svg_retina_logo_height:
           
           <div id="owl-slider-dac" class="owl-carousel portfolio-slider mfp-gallery" data-token="98Jci">
             <div class="slider-item">
-              <a title="" href="http://localhost/1/wp-content/uploads/2017/06/bibliotheca-universalis.jpg" class="not-link dt-lightbox-gallery"><img class="" src="http://localhost/1/wp-content/uploads/2017/06/bibliotheca-universalis-640x400.jpg" width="640" height="400" alt="bibliotheca-universalis" title="bibliotheca-universalis" /></a>
+              <a title="" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/bibliotheca-universalis.jpg" class="not-link dt-lightbox-gallery"><img class="" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/bibliotheca-universalis-640x400.jpg" width="640" height="400" alt="bibliotheca-universalis" title="bibliotheca-universalis" /></a>
             </div>
             
             <div class="slider-item">
-              <a title="" href="http://localhost/1/wp-content/uploads/2017/06/multitasking.jpg" class="not-link dt-lightbox-gallery"><img class="" src="http://localhost/1/wp-content/uploads/2017/06/multitasking-640x400.jpg" width="640" height="400" alt="multitasking" title="multitasking" /></a>
+              <a title="" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/multitasking.jpg" class="not-link dt-lightbox-gallery"><img class="" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/multitasking-640x400.jpg" width="640" height="400" alt="multitasking" title="multitasking" /></a>
             </div>
             
             <div class="slider-item">
-              <a title="" href="http://localhost/1/wp-content/uploads/2017/06/the-zen-room.jpg" class="not-link dt-lightbox-gallery"><img class="" src="http://localhost/1/wp-content/uploads/2017/06/the-zen-room-640x400.jpg" width="640" height="400" alt="the-zen-room" title="the-zen-room" /></a>
+              <a title="" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/the-zen-room.jpg" class="not-link dt-lightbox-gallery"><img class="" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/the-zen-room-640x400.jpg" width="640" height="400" alt="the-zen-room" title="the-zen-room" /></a>
             </div>
             
             <div class="slider-item">
-              <a title="" href="http://localhost/1/wp-content/uploads/2017/06/childhood-memories.jpg" class="not-link dt-lightbox-gallery"><img class="" src="http://localhost/1/wp-content/uploads/2017/06/childhood-memories-640x400.jpg" width="640" height="400" alt="childhood-memories" title="childhood-memories" /></a>
+              <a title="" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/childhood-memories.jpg" class="not-link dt-lightbox-gallery"><img class="" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/childhood-memories-640x400.jpg" width="640" height="400" alt="childhood-memories" title="childhood-memories" /></a>
             </div>
             
             <div class="slider-item">
-              <a title="" href="http://localhost/1/wp-content/uploads/2017/06/fitness-routine.jpg" class="not-link dt-lightbox-gallery"><img class="" src="http://localhost/1/wp-content/uploads/2017/06/fitness-routine-640x400.jpg" width="640" height="400" alt="fitness-routine" title="fitness-routine" /></a>
+              <a title="" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/fitness-routine.jpg" class="not-link dt-lightbox-gallery"><img class="" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/fitness-routine-640x400.jpg" width="640" height="400" alt="fitness-routine" title="fitness-routine" /></a>
             </div>
           </div>
         </div>[/vc_column][/vc_row][vc_row css=&#8221;.vc_custom_1499110155767{padding-top: 140px !important;padding-bottom: 140px !important;}&#8221; el_id=&#8221;get_started&#8221;][vc_column width=&#8221;1/3&#8243;]

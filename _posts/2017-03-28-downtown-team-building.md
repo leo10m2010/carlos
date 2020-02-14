@@ -170,7 +170,7 @@ mora_blog_layout:
   <div id="owl-testimonials-cda" class="owl-carousel testimonials-slider" data-token="OPKlp">
     <div class="testimonial-item">
       <div class="client-thumbnail">
-        <img class="client-thumb " src="http://localhost/1/wp-content/uploads/2017/06/testimonial-1-90x90.jpg" width="90" height="90" alt="testimonial-1" title="testimonial-1" />
+        <img class="client-thumb " src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/testimonial-1-90x90.jpg" width="90" height="90" alt="testimonial-1" title="testimonial-1" />
       </div>
       
       <span class="testimonial-name">Michael Doe</span><em>,</em> <span class="testimonial-position">Fab Media</span>
@@ -187,7 +187,7 @@ mora_blog_layout:
     
     <div class="testimonial-item">
       <div class="client-thumbnail">
-        <img class="client-thumb " src="http://localhost/1/wp-content/uploads/2017/06/testimonial-2-90x90.jpg" width="90" height="90" alt="testimonial-2" title="testimonial-2" />
+        <img class="client-thumb " src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/testimonial-2-90x90.jpg" width="90" height="90" alt="testimonial-2" title="testimonial-2" />
       </div>
       
       <span class="testimonial-name">Alice LeGrand</span><em>,</em> <span class="testimonial-position">Nanotec</span>
@@ -204,7 +204,7 @@ mora_blog_layout:
     
     <div class="testimonial-item">
       <div class="client-thumbnail">
-        <img class="client-thumb " src="http://localhost/1/wp-content/uploads/2017/06/testimonial-3-90x90.jpg" width="90" height="90" alt="testimonial-3" title="testimonial-3" />
+        <img class="client-thumb " src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/testimonial-3-90x90.jpg" width="90" height="90" alt="testimonial-3" title="testimonial-3" />
       </div>
       
       <span class="testimonial-name">Jacob Johnson</span><em>,</em> <span class="testimonial-position">Meetup</span>
@@ -259,7 +259,7 @@ mora_blog_layout:
 
 <ul class="portfolio dt-gap-2 isotope text-on-thumbnail style-load-more-btn mfp-gallery grid_bbb">
   <li class=" grid-item dt-project-35 19 21 22  item-wide grid light-captions text-on-thumbnail">
-    <a class="img-anchor" href="http://localhost/1/portfolio/feng-shui-office/"><img src="http://localhost/1/wp-content/uploads/2017/06/the-zen-room-759x589.jpg" alt="" />
+    <a class="img-anchor" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/portfolio/feng-shui-office/"><img src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/the-zen-room-759x589.jpg" alt="" />
     
     <div class="grid-item-on-hover">
       <div class="grid-text-container">
@@ -277,7 +277,7 @@ mora_blog_layout:
   </li>
   
   <li class=" grid-item dt-project-33 20  item-small grid light-captions text-on-thumbnail">
-    <a class="img-anchor" href="http://localhost/1/portfolio/the-prestige/"><img src="http://localhost/1/wp-content/uploads/2017/06/the-prestige-379x294.jpg" alt="" />
+    <a class="img-anchor" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/portfolio/the-prestige/"><img src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/the-prestige-379x294.jpg" alt="" />
     
     <div class="grid-item-on-hover">
       <div class="grid-text-container">
@@ -295,7 +295,7 @@ mora_blog_layout:
   </li>
   
   <li class=" grid-item dt-project-31 18 20  item-high grid light-captions text-on-thumbnail">
-    <a class="img-anchor" href="http://localhost/1/portfolio/healthy-living/"><img src="http://localhost/1/wp-content/uploads/2017/06/healthy-living-389x629.jpg" alt="" />
+    <a class="img-anchor" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/portfolio/healthy-living/"><img src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/healthy-living-389x629.jpg" alt="" />
     
     <div class="grid-item-on-hover">
       <div class="grid-text-container">
@@ -313,7 +313,7 @@ mora_blog_layout:
   </li>
   
   <li class=" grid-item dt-project-29 19 20  item-small grid light-captions text-on-thumbnail">
-    <a class="img-anchor" href="http://localhost/1/portfolio/childhood-memories/"><img src="http://localhost/1/wp-content/uploads/2017/06/childhood-memories-379x294.jpg" alt="" />
+    <a class="img-anchor" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/portfolio/childhood-memories/"><img src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/childhood-memories-379x294.jpg" alt="" />
     
     <div class="grid-item-on-hover">
       <div class="grid-text-container">
@@ -331,7 +331,7 @@ mora_blog_layout:
   </li>
   
   <li class=" grid-item dt-project-27 18 21  item-high grid light-captions text-on-thumbnail">
-    <a class="img-anchor" href="http://localhost/1/portfolio/morning-habits/"><img src="http://localhost/1/wp-content/uploads/2017/06/morning-habits-389x629.jpg" alt="" />
+    <a class="img-anchor" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/portfolio/morning-habits/"><img src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/morning-habits-389x629.jpg" alt="" />
     
     <div class="grid-item-on-hover">
       <div class="grid-text-container">
@@ -349,7 +349,7 @@ mora_blog_layout:
   </li>
   
   <li class=" grid-item dt-project-25 21  item-small grid light-captions text-on-thumbnail">
-    <a class="img-anchor" href="http://localhost/1/portfolio/multitasking/"><img src="http://localhost/1/wp-content/uploads/2017/06/multitasking-379x294.jpg" alt="" />
+    <a class="img-anchor" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/portfolio/multitasking/"><img src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/multitasking-379x294.jpg" alt="" />
     
     <div class="grid-item-on-hover">
       <div class="grid-text-container">
@@ -367,7 +367,7 @@ mora_blog_layout:
   </li>
   
   <li class=" grid-item dt-project-23 20 21  item-long grid light-captions text-on-thumbnail">
-    <a class="img-anchor" href="http://localhost/1/portfolio/bibliotheca-universalis/"><img src="http://localhost/1/wp-content/uploads/2017/06/bibliotheca-universalis-759x294.jpg" alt="" />
+    <a class="img-anchor" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/portfolio/bibliotheca-universalis/"><img src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/bibliotheca-universalis-759x294.jpg" alt="" />
     
     <div class="grid-item-on-hover">
       <div class="grid-text-container">
@@ -385,7 +385,7 @@ mora_blog_layout:
   </li>
   
   <li class=" grid-item dt-project-21 18 19  item-small grid light-captions text-on-thumbnail">
-    <a class="img-anchor" href="http://localhost/1/portfolio/fitness-routine/"><img src="http://localhost/1/wp-content/uploads/2017/06/fitness-routine-379x294.jpg" alt="" />
+    <a class="img-anchor" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/portfolio/fitness-routine/"><img src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/fitness-routine-379x294.jpg" alt="" />
     
     <div class="grid-item-on-hover">
       <div class="grid-text-container">
@@ -403,7 +403,7 @@ mora_blog_layout:
   </li>
   
   <li class=" grid-item dt-project-10 20 22  item-small grid light-captions text-on-thumbnail">
-    <a class="img-anchor" href="http://localhost/1/portfolio/lazy-sunday/"><img src="http://localhost/1/wp-content/uploads/2017/06/lazy-sunday-379x294.jpg" alt="" />
+    <a class="img-anchor" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/portfolio/lazy-sunday/"><img src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/lazy-sunday-379x294.jpg" alt="" />
     
     <div class="grid-item-on-hover">
       <div class="grid-text-container">
@@ -421,7 +421,7 @@ mora_blog_layout:
   </li>
   
   <li class=" grid-item dt-project-49 21 22  item-small grid light-captions text-on-thumbnail">
-    <a class="img-anchor" href="http://localhost/1/portfolio/subtle-artwork/"><img src="http://localhost/1/wp-content/uploads/2017/06/subtle-artwork-379x294.jpg" alt="" />
+    <a class="img-anchor" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/portfolio/subtle-artwork/"><img src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/subtle-artwork-379x294.jpg" alt="" />
     
     <div class="grid-item-on-hover">
       <div class="grid-text-container">
@@ -440,7 +440,7 @@ mora_blog_layout:
 </ul></section>
 
 <div class="dt_pagination">
-  <span>Page 1 of 2</span><span class="current">1</span> <a href="http://localhost/1/wp-admin/export.php?type=jekyll&#038;paged=2" class="inactive">2</a><a class="next" href="http://localhost/1/wp-admin/export.php?type=jekyll&#038;paged=2">&raquo;</a>
+  <span>Page 1 of 2</span><span class="current">1</span> <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-admin/export.php?type=jekyll&#038;paged=2" class="inactive">2</a><a class="next" href="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-admin/export.php?type=jekyll&#038;paged=2">&raquo;</a>
 </div></section>\[/vc\_column\]\[/vc\_row\]\[vc\_row full\_width=&#8221;stretch\_row&#8221; css=&#8221;.vc\_custom\_1495473747775{padding-top: 30px !important;padding-bottom: 30px !important;background-color: #ee992a !important;}&#8221; el\_class=&#8221;darker-overlay&#8221;\]\[vc_column\]
 
 <div class="title-center">
@@ -523,25 +523,25 @@ mora_blog_layout:
     </div><article id="post-85" class="grid-item wow fadeInUp post-85 type-post status-publish format-standard has-post-thumbnail hentry category-fun category-love"> 
     
     <div class="post-thumbnail">
-      <a href="http://localhost/1/2017/06/07/the-beauty-of-life/"> 
+      <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/06/07/the-beauty-of-life/"> 
       
       <div class="blog-grid-hover">
         <span class="read-me-more">Read More</span>
       </div>
       
-      <img width="640" height="427" src="http://localhost/1/wp-content/uploads/2017/06/spring-is-coming.jpg" class="attachment-mora-blog-grid-thumbnail size-mora-blog-grid-thumbnail wp-post-image" alt="" /> </a>
+      <img width="640" height="427" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/spring-is-coming.jpg" class="attachment-mora-blog-grid-thumbnail size-mora-blog-grid-thumbnail wp-post-image" alt="" /> </a>
     </div>
     
     <!--end post-thumbnail--><section class="blog-grid-content-bg"> <header class="entry-header"> 
     
     <div class="entry-meta">
-      <span class="posted-on"><time class="entry-date published updated" datetime="2017-06-07T13:48:23+00:00">7 Junio, 2017</time></span> <span class="cat-links"><a href="http://localhost/1/category/fun/" rel="category tag">Fun</a> <a href="http://localhost/1/category/love/" rel="category tag">Love</a></span>
+      <span class="posted-on"><time class="entry-date published updated" datetime="2017-06-07T13:48:23+00:00">7 Junio, 2017</time></span> <span class="cat-links"><a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/category/fun/" rel="category tag">Fun</a> <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/category/love/" rel="category tag">Love</a></span>
     </div>
     
     <!-- .entry-meta -->
     
     <h3 class="entry-title">
-      <a href="http://localhost/1/2017/06/07/the-beauty-of-life/" rel="bookmark"><span>The Beauty of Life</span></a>
+      <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/06/07/the-beauty-of-life/" rel="bookmark"><span>The Beauty of Life</span></a>
     </h3></header>
     
     <!-- .entry-header -->
@@ -553,7 +553,7 @@ mora_blog_layout:
       
       <div class="post-read-more">
         <div class="post-read-more">
-          <a href="http://localhost/1/2017/06/07/the-beauty-of-life/" class="more-link">Read More</a>
+          <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/06/07/the-beauty-of-life/" class="more-link">Read More</a>
         </div>
       </div>
     </div>
@@ -563,25 +563,25 @@ mora_blog_layout:
     <!-- .entry-footer --></section> </article> <article id="post-73" class="grid-item wow fadeInUp post-73 type-post status-publish format-standard has-post-thumbnail hentry category-personal tag-diy tag-handcrafting tag-paper"> 
     
     <div class="post-thumbnail">
-      <a href="http://localhost/1/2017/05/18/spare-time-activities/"> 
+      <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/05/18/spare-time-activities/"> 
       
       <div class="blog-grid-hover">
         <span class="read-me-more">Read More</span>
       </div>
       
-      <img width="640" height="737" src="http://localhost/1/wp-content/uploads/2017/06/spare-time-activities.jpg" class="attachment-mora-blog-grid-thumbnail size-mora-blog-grid-thumbnail wp-post-image" alt="" /> </a>
+      <img width="640" height="737" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/spare-time-activities.jpg" class="attachment-mora-blog-grid-thumbnail size-mora-blog-grid-thumbnail wp-post-image" alt="" /> </a>
     </div>
     
     <!--end post-thumbnail--><section class="blog-grid-content-bg"> <header class="entry-header"> 
     
     <div class="entry-meta">
-      <span class="posted-on"><time class="entry-date published updated" datetime="2017-05-18T13:47:39+00:00">18 Mayo, 2017</time></span> <span class="cat-links"><a href="http://localhost/1/category/personal/" rel="category tag">Personal</a></span>
+      <span class="posted-on"><time class="entry-date published updated" datetime="2017-05-18T13:47:39+00:00">18 Mayo, 2017</time></span> <span class="cat-links"><a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/category/personal/" rel="category tag">Personal</a></span>
     </div>
     
     <!-- .entry-meta -->
     
     <h3 class="entry-title">
-      <a href="http://localhost/1/2017/05/18/spare-time-activities/" rel="bookmark"><span>Spare Time Activities</span></a>
+      <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/05/18/spare-time-activities/" rel="bookmark"><span>Spare Time Activities</span></a>
     </h3></header>
     
     <!-- .entry-header -->
@@ -593,7 +593,7 @@ mora_blog_layout:
       
       <div class="post-read-more">
         <div class="post-read-more">
-          <a href="http://localhost/1/2017/05/18/spare-time-activities/" class="more-link">Read More</a>
+          <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/05/18/spare-time-activities/" class="more-link">Read More</a>
         </div>
       </div>
     </div>
@@ -603,25 +603,25 @@ mora_blog_layout:
     <!-- .entry-footer --></section> </article> <article id="post-83" class="grid-item wow fadeInUp post-83 type-post status-publish format-standard has-post-thumbnail hentry category-lifestyle"> 
     
     <div class="post-thumbnail">
-      <a href="http://localhost/1/2017/04/15/outdoor-essentials/"> 
+      <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/04/15/outdoor-essentials/"> 
       
       <div class="blog-grid-hover">
         <span class="read-me-more">Read More</span>
       </div>
       
-      <img width="640" height="512" src="http://localhost/1/wp-content/uploads/2017/06/outdoor-essentials-1.jpg" class="attachment-mora-blog-grid-thumbnail size-mora-blog-grid-thumbnail wp-post-image" alt="" /> </a>
+      <img width="640" height="512" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/outdoor-essentials-1.jpg" class="attachment-mora-blog-grid-thumbnail size-mora-blog-grid-thumbnail wp-post-image" alt="" /> </a>
     </div>
     
     <!--end post-thumbnail--><section class="blog-grid-content-bg"> <header class="entry-header"> 
     
     <div class="entry-meta">
-      <span class="posted-on"><time class="entry-date published updated" datetime="2017-04-15T13:47:10+00:00">15 Abril, 2017</time></span> <span class="cat-links"><a href="http://localhost/1/category/lifestyle/" rel="category tag">Lifestyle</a></span>
+      <span class="posted-on"><time class="entry-date published updated" datetime="2017-04-15T13:47:10+00:00">15 Abril, 2017</time></span> <span class="cat-links"><a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/category/lifestyle/" rel="category tag">Lifestyle</a></span>
     </div>
     
     <!-- .entry-meta -->
     
     <h3 class="entry-title">
-      <a href="http://localhost/1/2017/04/15/outdoor-essentials/" rel="bookmark"><span>Outdoor Essentials</span></a>
+      <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/04/15/outdoor-essentials/" rel="bookmark"><span>Outdoor Essentials</span></a>
     </h3></header>
     
     <!-- .entry-header -->
@@ -633,7 +633,7 @@ mora_blog_layout:
       
       <div class="post-read-more">
         <div class="post-read-more">
-          <a href="http://localhost/1/2017/04/15/outdoor-essentials/" class="more-link">Read More</a>
+          <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/04/15/outdoor-essentials/" class="more-link">Read More</a>
         </div>
       </div>
     </div>
@@ -643,25 +643,25 @@ mora_blog_layout:
     <!-- .entry-footer --></section> </article> <article id="post-81" class="grid-item wow fadeInUp post-81 type-post status-publish format-standard has-post-thumbnail hentry category-fun category-urban"> 
     
     <div class="post-thumbnail">
-      <a href="http://localhost/1/2017/04/07/urban-adventure/"> 
+      <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/04/07/urban-adventure/"> 
       
       <div class="blog-grid-hover">
         <span class="read-me-more">Read More</span>
       </div>
       
-      <img width="640" height="499" src="http://localhost/1/wp-content/uploads/2017/06/urban-adventure-1.jpg" class="attachment-mora-blog-grid-thumbnail size-mora-blog-grid-thumbnail wp-post-image" alt="" /> </a>
+      <img width="640" height="499" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/urban-adventure-1.jpg" class="attachment-mora-blog-grid-thumbnail size-mora-blog-grid-thumbnail wp-post-image" alt="" /> </a>
     </div>
     
     <!--end post-thumbnail--><section class="blog-grid-content-bg"> <header class="entry-header"> 
     
     <div class="entry-meta">
-      <span class="posted-on"><time class="entry-date published updated" datetime="2017-04-07T13:46:31+00:00">7 Abril, 2017</time></span> <span class="cat-links"><a href="http://localhost/1/category/fun/" rel="category tag">Fun</a> <a href="http://localhost/1/category/urban/" rel="category tag">Urban</a></span>
+      <span class="posted-on"><time class="entry-date published updated" datetime="2017-04-07T13:46:31+00:00">7 Abril, 2017</time></span> <span class="cat-links"><a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/category/fun/" rel="category tag">Fun</a> <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/category/urban/" rel="category tag">Urban</a></span>
     </div>
     
     <!-- .entry-meta -->
     
     <h3 class="entry-title">
-      <a href="http://localhost/1/2017/04/07/urban-adventure/" rel="bookmark"><span>Urban Adventure</span></a>
+      <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/04/07/urban-adventure/" rel="bookmark"><span>Urban Adventure</span></a>
     </h3></header>
     
     <!-- .entry-header -->
@@ -673,7 +673,7 @@ mora_blog_layout:
       
       <div class="post-read-more">
         <div class="post-read-more">
-          <a href="http://localhost/1/2017/04/07/urban-adventure/" class="more-link">Read More</a>
+          <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/04/07/urban-adventure/" class="more-link">Read More</a>
         </div>
       </div>
     </div>
@@ -683,25 +683,25 @@ mora_blog_layout:
     <!-- .entry-footer --></section> </article> <article id="post-79" class="grid-item wow fadeInUp post-79 type-post status-publish format-standard has-post-thumbnail hentry category-personal"> 
     
     <div class="post-thumbnail">
-      <a href="http://localhost/1/2017/04/01/say-yes-to-detox/"> 
+      <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/04/01/say-yes-to-detox/"> 
       
       <div class="blog-grid-hover">
         <span class="read-me-more">Read More</span>
       </div>
       
-      <img width="640" height="590" src="http://localhost/1/wp-content/uploads/2017/04/say-yes-to-detox.jpg" class="attachment-mora-blog-grid-thumbnail size-mora-blog-grid-thumbnail wp-post-image" alt="" /> </a>
+      <img width="640" height="590" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/04/say-yes-to-detox.jpg" class="attachment-mora-blog-grid-thumbnail size-mora-blog-grid-thumbnail wp-post-image" alt="" /> </a>
     </div>
     
     <!--end post-thumbnail--><section class="blog-grid-content-bg"> <header class="entry-header"> 
     
     <div class="entry-meta">
-      <span class="posted-on"><time class="entry-date published updated" datetime="2017-04-01T13:45:05+00:00">1 Abril, 2017</time></span> <span class="cat-links"><a href="http://localhost/1/category/personal/" rel="category tag">Personal</a></span>
+      <span class="posted-on"><time class="entry-date published updated" datetime="2017-04-01T13:45:05+00:00">1 Abril, 2017</time></span> <span class="cat-links"><a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/category/personal/" rel="category tag">Personal</a></span>
     </div>
     
     <!-- .entry-meta -->
     
     <h3 class="entry-title">
-      <a href="http://localhost/1/2017/04/01/say-yes-to-detox/" rel="bookmark"><span>Say Yes to Detox</span></a>
+      <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/04/01/say-yes-to-detox/" rel="bookmark"><span>Say Yes to Detox</span></a>
     </h3></header>
     
     <!-- .entry-header -->
@@ -713,7 +713,7 @@ mora_blog_layout:
       
       <div class="post-read-more">
         <div class="post-read-more">
-          <a href="http://localhost/1/2017/04/01/say-yes-to-detox/" class="more-link">Read More</a>
+          <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/04/01/say-yes-to-detox/" class="more-link">Read More</a>
         </div>
       </div>
     </div>
@@ -723,25 +723,25 @@ mora_blog_layout:
     <!-- .entry-footer --></section> </article> <article id="post-75" class="grid-item wow fadeInUp post-75 type-post status-publish format-gallery has-post-thumbnail hentry category-fun category-people tag-downtown tag-team post_format-post-format-gallery"> 
     
     <div class="post-thumbnail">
-      <a href="http://localhost/1/2017/03/28/downtown-team-building/"> 
+      <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/03/28/downtown-team-building/"> 
       
       <div class="blog-grid-hover">
         <span class="read-me-more">Read More</span>
       </div>
       
-      <img width="640" height="408" src="http://localhost/1/wp-content/uploads/2017/06/team-building.jpg" class="attachment-mora-blog-grid-thumbnail size-mora-blog-grid-thumbnail wp-post-image" alt="" /> </a>
+      <img width="640" height="408" src="https://raw.githubusercontent.com/leo10m2010/carlos/master/wp-content/uploads/2017/06/team-building.jpg" class="attachment-mora-blog-grid-thumbnail size-mora-blog-grid-thumbnail wp-post-image" alt="" /> </a>
     </div>
     
     <!--end post-thumbnail--><section class="blog-grid-content-bg"> <header class="entry-header"> 
     
     <div class="entry-meta">
-      <span class="posted-on"><time class="entry-date published updated" datetime="2017-03-28T13:37:49+00:00">28 Marzo, 2017</time></span> <span class="cat-links"><a href="http://localhost/1/category/fun/" rel="category tag">Fun</a> <a href="http://localhost/1/category/people/" rel="category tag">People</a></span>
+      <span class="posted-on"><time class="entry-date published updated" datetime="2017-03-28T13:37:49+00:00">28 Marzo, 2017</time></span> <span class="cat-links"><a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/category/fun/" rel="category tag">Fun</a> <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/category/people/" rel="category tag">People</a></span>
     </div>
     
     <!-- .entry-meta -->
     
     <h3 class="entry-title">
-      <a href="http://localhost/1/2017/03/28/downtown-team-building/" rel="bookmark"><span>Downtown Team Building</span></a>
+      <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/03/28/downtown-team-building/" rel="bookmark"><span>Downtown Team Building</span></a>
     </h3></header>
     
     <!-- .entry-header -->
@@ -753,7 +753,7 @@ mora_blog_layout:
       
       <div class="post-read-more">
         <div class="post-read-more">
-          <a href="http://localhost/1/2017/03/28/downtown-team-building/" class="more-link">Read More</a>
+          <a href="https://raw.githubusercontent.com/leo10m2010/carlos/master/2017/03/28/downtown-team-building/" class="more-link">Read More</a>
         </div>
       </div>
     </div>
